@@ -1,0 +1,21 @@
+body{
+    background: #333;
+	cursor: none;
+}
+canvas{
+    display: block;
+    margin: 30px auto 0px;
+}
+#player, #enemy, #stats{
+    display: block;
+    margin: -500px auto 0px;
+}
+#gameName{
+    color:#fff;
+    font-family: "HelveticaNeue-UltraLight";
+    font-size: 27px;
+    text-align: center;
+}
+#map {
+  background: url("img/bg.png") repeat-x left top;
+}
